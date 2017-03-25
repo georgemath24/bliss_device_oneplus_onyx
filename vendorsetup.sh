@@ -1,1 +1,1 @@
-add_lunch_combo aoscp_onyx-userdebug
+add_lunch_combo bliss_onyx-userdebug
